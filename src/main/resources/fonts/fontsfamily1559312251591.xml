@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+
+   <fontFamily name="Tahoma">
+       <normal><![CDATA[fonts/Tahoma.ttf]]></normal>
+       <bold><![CDATA[fonts/Tahomabd.ttf]]></bold>
+       <pdfEmbedded><![CDATA[false]]></pdfEmbedded>
+   </fontFamily>
+
+
+</fontFamilies>
